@@ -1,4 +1,4 @@
-# Cleaning-Menu
+# Cleaning-Menu🧹
 Um menu dedicado para libertar espaço no seu computador.
 
 ![image](https://github.com/user-attachments/assets/6ce6b3cb-9f4c-4348-85b5-22a1fd0600bb)
@@ -13,5 +13,5 @@ A pasta Temp (ou Temporary) é um diretório do sistema operacional onde são ar
 Com este programa com 1 simples click e todos os ficheiros são apagados, o que pode ser muito útil.
 
 ---
-## Download   
+## Download 💾   
 [Menu install](https://www.mediafire.com/file/kt5g0iv9zfe1wxc/menu.exe/file)
